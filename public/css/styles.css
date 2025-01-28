@@ -1,0 +1,48 @@
+.card {
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+#add-question-form .form-control {
+    border-radius: 4px;
+}
+
+.option-row {
+    display: flex;
+    align-items: center;
+}
+
+.btn {
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #565e64;
+}
+
+.nav-link.active {
+    font-weight: bold;
+    color: #fff !important;
+    background-color: #007bff;
+    border-radius: 5px;
+}

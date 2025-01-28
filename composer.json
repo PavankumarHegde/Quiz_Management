@@ -1,0 +1,8 @@
+{
+    "require": {
+        "smarty/smarty": "^5.4"
+    },
+    "psr-4": {
+        "App\\": "app/"
+    }
+}
